@@ -1,0 +1,9 @@
+Buildfile: C:\Users\HP\Documents\Mendix\docker-mendix-buildpack-master\CICDApp-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\HP\Documents\Mendix\docker-mendix-buildpack-master\CICDApp-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

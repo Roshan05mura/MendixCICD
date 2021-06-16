@@ -1,0 +1,9 @@
+Buildfile: C:\Users\HP\Documents\Mendix\docker-mendix-buildpack-master\CICDApp-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 31 files to C:\Users\HP\Documents\Mendix\docker-mendix-buildpack-master\CICDApp-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

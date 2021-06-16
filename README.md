@@ -328,7 +328,3 @@ This was built with the following:
 ### Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/mendix/IBM-Watson-Connector-Kit/tags).
-
-## License
-
-This project is licensed under the Apache License v2 (for details, see the [LICENSE](LICENSE-2.0.txt) file).

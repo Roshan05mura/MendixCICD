@@ -265,7 +265,7 @@ The admin interface can be used to measure the health of the Runtime as per [doc
 To clarify: 
 - the HTTP basic authentication credentials are: MxAdmin / [M2EE_PASSWORD] .
 - the X-M2EE-Authentication header contains a base64-encoded version of [M2EE_PASSWORD] .
-
+#s
 ### Health check
 
 The docker compose files, in the ```/test``` folder, contain an example how to perform a healtcheck on a Mendix app:
